@@ -1,4 +1,5 @@
-Stories are short descriptions of a small piece of desired functionality written from the user’s perspective. Agile Teams implement stories as small, vertical slices of system functionality that can be completed in a few days or less. 
+Stories are short descriptions of a small piece of desired functionality written from the user’s perspective. 
+Agile Teams implement stories as small, vertical slices of system functionality that can be completed in a few days or less. 
 Stories are the primary artifact used to define system behavior in Agile. They are short, simple descriptions of functionality told from the user’s perspective and written in their language. Each implements a small, vertical slice of system behavior. 
 Stories provide just enough information for business and technical people to understand the intent. Details are deferred until the story is ready to be implemented. Through acceptance criteria and acceptance tests, stories get more specific, helping to ensure system quality. 
 User stories deliver functionality directly to the end user. 
