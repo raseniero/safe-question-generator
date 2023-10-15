@@ -1,0 +1,2 @@
+While anyone can write stories, approving them into the team backlog and accepting them into the system baseline are the Product Owner’s responsibility. Of course, stickies don’t scale well across the Enterprise, so stories often move quickly into Agile Lifecycle Management (ALM) tooling.
+There are two types of stories in SAFe, user stories and enabler stories, as described below.
